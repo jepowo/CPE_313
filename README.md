@@ -16,7 +16,7 @@ class JepxZIMA:
       '- 🎏 Section'                    : 'CPE32S8',
       '- 🌱 I’m currently pursuing'     : {'BSCpE' : 'Bachelor of Science in Computer Engineering'},
       '- 📊 My elective'                : 'Data Science',
-      '- ❔ I don't know'               : '¯\_(ツ)_/¯',
+      '- ❔ I dont know'               : '¯\_(ツ)_/¯',
       '- 👨‍💻 My amazing website project' : 'https://blogs.mtdv.me/blog/posts/jepowo',
       '- 💧 Motto in life'              : ('Empty your mind, be formless. Shapeless, like water. If you put water'
                                             'into a cup, it becomes the cup. You put water into a bottle and it'
