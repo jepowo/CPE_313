@@ -12,10 +12,11 @@ class JepxZIMA:
       '- 🤷🏻‍♂️ What is this, nani'         : 'A GitHub repository dedicated to the CPE313 course',
       '- 🏡 I’m currently living in'    : 'Binangonan, Rizal',
       '- 🏫 I’m currently studying in'  : 'Technological Institute of the Philippines',
+      '- 🌱 I’m currently pursuing'     : {'BSCpE' : 'Bachelor of Science in Computer Engineering'},
+
       '- 📓 Course code - title'        : {'CPE 313' : 'Advanced Machine Learning and Deep Learning'},
       '- 🎏 Section'                    : 'CPE32S8',
-      '- 🌱 I’m currently pursuing'     : {'BSCpE' : 'Bachelor of Science in Computer Engineering'},
-      '- 📊 My elective'                : 'Data Science',
+      '- 📊 Elective'                   : 'Data Science',
       '- ❔ I dont know'                : '¯\_(ツ)_/¯',
       '- 👨‍💻 My amazing website project' : 'https://blogs.mtdv.me/blog/posts/jepowo',
 
