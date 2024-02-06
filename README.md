@@ -26,8 +26,7 @@ class JepxZIMA:
                                             'into a cup, it becomes the cup. You put water into a bottle and it'
                                             'becomes the bottle. You put it in a teapot, it becomes the teapot.'
                                             'Now, water can flow or it can crash. Be water, my friend.'),
-      '- ⚡ Fun fact'                : ('Movie trailers got their name because they were'
-                                       'originally shown after the movie.')
+      '- ⚡ Fun fact'                : ('Did you know? That bungee gum possesses the properties of both rubber and gum')
     }
 
 if __name__ == '__main__':
