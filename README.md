@@ -37,6 +37,6 @@ if __name__ == '__main__':
 ### - Workspace 🖥️
 <p align="center">
   <a href="#"><img src="https://github.com/jepowo/CPE_313/blob/main/src/graphics.svg" alt="NVIDIA 1650"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/jepowo/CPE_313/blob/main/src/processor.svg" alt="AMD Ryzen 7 4800H"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/jepowo/CPE_313/blob/main/src/laptop.svg" alt="Asus"></a>
+  <a href="#"><img src="https://github.com/jepowo/CPE_313/blob/main/src/processor.svg" alt="AMD Ryzen 7 4800H"></a>
+  <a href="#"><img src="https://github.com/jepowo/CPE_313/blob/main/src/laptop.svg" alt="HP"></a>
 </p>
