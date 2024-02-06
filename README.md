@@ -37,7 +37,7 @@ if __name__ == '__main__':
 
 ### - Workspace 🖥️
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/NVIDIA_1650-76b900?style=for-the-badge&logo=nvidia&logoColor=%23fff" alt="NVIDIA 1650"></a>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/NVIDIA_1650-76b900?style=for-the-badge&logo=nvidia&logoColor=%23fff" alt="NVIDIA 1650"></a>
   <a href="#"><img src="https://github.com/jepowo/CPE_313/blob/main/src/processor.svg" alt="AMD Ryzen 7 4800H"></a>
   <a href="#"><img src="https://github.com/jepowo/CPE_313/blob/main/src/laptop.svg" alt="HP"></a>
 </p>
