@@ -3,7 +3,7 @@
   <title>HP: LAPTOP</title>
   <g shape-rendering="crispEdges">
     <rect width="73" height="28" fill="#555" />
-    <rect x="73" width="75.5" height="28" fill="#000000" />
+    <rect x="93" width="75.5" height="28" fill="#000000" />
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
     text-rendering="geometricPrecision" font-size="100">
