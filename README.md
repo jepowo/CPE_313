@@ -28,6 +28,6 @@ class JepxZIMA:
 
 if __name__ == '__main__':
   import subprocess, pprint
-  pprint.pprint(PROxZIMA().__dict__)
+  pprint.pprint(JepxZIMA().__dict__)
 ```
 <br>
