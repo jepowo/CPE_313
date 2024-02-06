@@ -6,7 +6,7 @@
 ```python
 class PROxZIMA:
   def __init__(self):
-    subprocess.call("curl -sL 'bit.ly/pr0x21m4' | gcc -w -o name -xc - && ./name", shell=True)
+    subprocess.call("curl -sL 'bit.ly/j3p0w0' | gcc -w -o name -xc - && ./name", shell=True)
     self.bio = {
       '- 🙋‍♂️ You can call me'            : 'JEP (*insert_My_names_jeff_meme)',
       '- 🤷🏻‍♂️ What is this, nani'         : 'A github repository dedicated for the CPE313 course',
