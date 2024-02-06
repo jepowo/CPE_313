@@ -26,7 +26,6 @@ class JepxZIMA:
                                           'into a cup, it becomes the cup. You put water into a bottle and it'
                                           'becomes the bottle. You put it in a teapot, it becomes the teapot.'
                                           'Now, water can flow or it can crash. Be water, my friend.'),
-
       '- ⚡ Fun fact'              : ('Did you know? Bungee Gum possesses the properties of both rubber and gum.')
     }
 
