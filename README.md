@@ -38,6 +38,6 @@ if __name__ == '__main__':
 ### - Workspace 🖥️
 <p align="center">
   <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/NVIDIA_1650-76b900?style=for-the-badge&logo=nvidia&logoColor=%23fff" alt="NVIDIA 1650"></a>
-  <a href="#"><img src="https://github.com/jepowo/CPE_313/blob/main/src/processor.svg" alt="AMD Ryzen 7 4800H"></a>
-  <a href="#"><img src="https://github.com/jepowo/CPE_313/blob/main/src/laptop.svg" alt="HP"></a>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/RYZEN_7_4800H-ed1c24?style=for-the-badge&logo=amd&logoColor=%23fff&label=AMD&labelColor=%23555" alt="AMD Ryzen 7 4800H"></a>
+  <a href="#"><img src="https://custom-icon-badges.demolab.com/badge/LAPTOP-000?style=for-the-badge&logo=hp&logoColor=%23fff&label=HP&labelColor=%23555" alt="HP"></a>
 </p>
