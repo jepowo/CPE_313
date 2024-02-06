@@ -17,6 +17,7 @@ class JepxZIMA:
       '- 📓 Course code - title'        : {'CPE 313' : 'Advanced Machine Learning and Deep Learning'},
       '- 🎏 Section'                    : 'CPE32S8',
       '- 📊 Elective'                   : 'Data Science',
+      '- 🏨 Hotel'                      : 'Trivago',
       '- ❔ I dont know'                : '¯\_(ツ)_/¯',
       '- 👨‍💻 My amazing website project' : 'https://blogs.mtdv.me/blog/posts/jepowo',
 
