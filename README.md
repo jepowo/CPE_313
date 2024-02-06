@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋, I'm Dela Rosa, John Errol 👨‍💻</h1>
+<h1 align="center">Yo 👋, I'm John Errol Dela Rosa 👨‍💻</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=16&pause=1000&color=36BCF7F7&center=true&vCenter=true&random=false&width=485&lines=Jep+is+trying+his+best.;This+is+a+placeholder.;You+wanna+know+how+I+got+these+scars%3F" alt="Jep is trying his best." />
 </p>
@@ -8,6 +8,7 @@ class JepxZIMA:
   def __init__(self):
     subprocess.call("curl -sL 'bit.ly/j3px21m4' | gcc -w -o name -xc - && ./name", shell=True)
     self.bio = {
+      '- 🪪 Last name'                  : 'Dela Rosa'
       '- 🙋‍♂️ You can call me'            : 'Jep',
       '- 🤷🏻‍♂️ What is this, nani'         : 'A GitHub repository dedicated to the CPE313 course',
       '- 🏡 I’m currently living in'    : 'Binangonan, Rizal',
