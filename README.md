@@ -33,3 +33,10 @@ if __name__ == '__main__':
   pprint.pprint(JepxZIMA().__dict__)
 ```
 <br>
+
+### - Workspace 🖥️
+<p align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/jepowo/CPE_313/blob/main/src/graphics.svg" alt="NVIDIA 3050"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/jepowo/CPE_313/blob/main/src/processor.svg" alt="AMD Ryzen 7 4800H"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/jepowo/CPE_313/blob/main/src/laptop.svg" alt="Asus"></a>
+</p>
